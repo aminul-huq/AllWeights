@@ -29,6 +29,6 @@ from AllWeights import *
 
 w = Equal(3)
 
-Loss = w ([Task1_loss, Task2_loss, Task3_loss])
+Loss = w([Task1_loss, Task2_loss, Task3_loss])
 
 ```
