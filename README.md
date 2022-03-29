@@ -22,6 +22,8 @@ https://github.com/aminul-huq/AllWeights.git
 | uncertainty.py      | Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics [CVPR 2018]                 |
 | reu.py   | Auxiliary tasks in multi-task learning. arXiv preprint arXiv:1805.06334, 2018.                |  
 
+
+N.B. DWA method needs to be updated.
 # Example
 
 ```
